@@ -1,6 +1,6 @@
 ![](https://github.com/DominiqueMakowski/CoCon.py/raw/master/CoCon/Logo/Logo_CoCon.png)
 # CoCon.py
-Here is the for the standalone version of the Cognitive Control Task for python.
+Here is the for the standalone version of the Cognitive Control Task (CoCon; Makowski et al., *under review*) for python.
 
 # Run
 
